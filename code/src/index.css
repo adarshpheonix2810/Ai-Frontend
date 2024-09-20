@@ -1,0 +1,18 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components {
+  .btn {
+    @apply font-bold py-2 px-4 rounded transition duration-300 ease-in-out;
+  }
+  .btn-primary {
+    @apply bg-purple-600 text-white hover:bg-purple-700;
+  }
+  .btn-ghost {
+    @apply bg-transparent text-purple-600 hover:bg-purple-100;
+  }
+  .btn-link {
+    @apply text-purple-600 hover:text-purple-700 underline;
+  }
+}
