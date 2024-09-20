@@ -21,7 +21,7 @@ Follow these steps to set up the LearningStudioAI project on your local machine:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/learning-studio-ai.git
+   git clone https://github.com/adarshpheonix2810/learning-studio-ai.git
    cd learning-studio-ai
    ```
 
